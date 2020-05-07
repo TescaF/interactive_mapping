@@ -1,0 +1,4 @@
+*Hint 0 - Prediction: milk -> juice  box -> box  pear -> apple  chips -> chips  
+Mapping type: a
+Row margin: 0.000205229708865
+Col margin: 0.0674852509706

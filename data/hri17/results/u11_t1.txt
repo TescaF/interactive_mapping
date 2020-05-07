@@ -1,0 +1,9 @@
+Hint 0 - Prediction: large_orange -> red_1  large_blue -> blue_1  small_green -> green_1  large_green -> blue_2  small_blue -> red_2  small_orange -> green_2  
+Mapping type: s
+Row margin: 0.00504912039089
+Col margin: 0.00504912039089
+*Hint 1 - small_orange -> red_1
+Prediction: large_orange -> red_2  large_blue -> blue_2  small_green -> green_1  large_green -> green_2  small_blue -> blue_1  small_orange -> red_1  
+Mapping type: h
+Row margin: 3.99495030612e-07
+Col margin: 0.191997603883

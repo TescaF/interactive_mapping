@@ -1,0 +1,5 @@
+blue_cup:orange_cup
+yellow_cup:green_cup
+purple_cup:red_cup
+orange_cup:blue_cup
+green_cup:yellow_cup

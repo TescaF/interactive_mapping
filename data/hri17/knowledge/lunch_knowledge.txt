@@ -1,0 +1,2 @@
+affordances;box:fillable,openable;apple:edible;oats:fillable;pear:edible;juice:pourable;chips:openable;milk:pourable
+properties;box:empty,open;apple:none;oats:full;pear:none;milk:upright,full;chips:closed;juice:upright,full

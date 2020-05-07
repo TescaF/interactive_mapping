@@ -1,0 +1,6 @@
+small_orange:red_1,red_2
+large_orange:red_1,red_2
+small_green:green_1,green_2
+large_green:green_1,green_2
+small_blue:blue_1,blue_2
+large_blue:blue_1,blue_2

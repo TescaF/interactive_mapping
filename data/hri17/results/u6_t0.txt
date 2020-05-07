@@ -1,0 +1,4 @@
+*Hint 0 - Prediction: green_cup -> yellow_cup  purple_cup -> red_cup  yellow_cup -> green_cup  orange_cup -> blue_cup  blue_cup -> orange_cup  
+Mapping type: d
+Row margin: 0.00372312702125
+Col margin: 0.0484230056758

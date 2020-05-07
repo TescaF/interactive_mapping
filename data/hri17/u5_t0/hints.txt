@@ -1,0 +1,10 @@
+orange_cup
+green_cup
+orange_cup
+green_cup
+red_cup
+green_cup
+yellow_cup
+green_cup
+blue_cup
+green_cup

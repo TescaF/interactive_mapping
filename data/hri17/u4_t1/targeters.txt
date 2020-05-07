@@ -1,0 +1,7 @@
+(small_orange)+0.00679392309866,(small_orange)-0.0624088977369,(small_orange)+0.0979352125719
+(large_orange)+0.00386839678792,(large_orange)+0.0533809701397,(large_orange)+0.18620647652
+(small_green)-0.049587219345,(small_green)-0.0534618811129,(small_green)+0.102529754377
+(large_green)+0.0267952095675,(large_green)+0.0265396774528,(large_green)+0.219792495723
+(small_blue)-0.0400753231053,(small_blue)-0.0591835735941,(small_blue)+0.10021791278
+(large_blue)-0.062929124387,(large_blue)-0.0428911085437,(large_blue)+0.166763455871
+(small_orange)-0.0741440939343,(small_orange)-0.133772822215,(small_orange)+0.428876877158

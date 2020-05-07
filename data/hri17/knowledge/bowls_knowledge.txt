@@ -1,0 +1,2 @@
+affordances;green_1:pourable,stackable;green_2:pourable,stackable;red_1:pourable,stackable;red_2:pourable,stackable;blue_1:pourable,stackable;blue_2:pourable,stackable
+properties;green_1:upright;green_2:upright;red_1:upright;red_2:upright;blue_1:upright;blue_2:upright

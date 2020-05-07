@@ -1,0 +1,9 @@
+(small_orange)+0.0095057206302,(small_orange)-0.0355944740686,(small_orange)+0.0785934169526
+(small_orange)+0.0536366166752,(small_orange)+0.00822632297109,(small_orange)+0.212224130619
+(small_orange)-0.0141435854688,(small_orange)-0.0382961400442,(small_orange)+0.105337584863
+(large_orange)-0.0306296415109,(large_orange)+0.0196467449414,(large_orange)+0.19385336238
+(small_green)-0.0669380731659,(small_green)-0.0700643673558,(small_green)+0.07273161017
+(large_green)-0.0538279613584,(large_green)+0.00373119518792,(large_green)+0.256840465369
+(small_blue)-0.0161101376411,(small_blue)-0.0594077819996,(small_blue)+0.104969465575
+(large_blue)-0.0344727369843,(large_blue)-0.0127269735427,(large_blue)+0.194354329632
+(small_green)-0.124777926966,(small_green)-0.0755504216398,(small_green)+0.556105716753

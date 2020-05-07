@@ -1,0 +1,14 @@
+Hint 0 - Prediction: yellow_cup -> yellow_cup  orange_cup -> green_cup  purple_cup -> blue_cup  green_cup -> red_cup  blue_cup -> orange_cup  
+Mapping type: s
+Row margin: 0.0149943186134
+Col margin: 0.0149943186134
+Hint 1 - blue_cup -> orange_cup
+Prediction: yellow_cup -> yellow_cup  orange_cup -> green_cup  purple_cup -> blue_cup  green_cup -> red_cup  blue_cup -> orange_cup  
+Mapping type: s
+Row margin: 0.0149943186134
+Col margin: 0.0149943186134
+*Hint 2 - yellow_cup -> green_cup
+Prediction: yellow_cup -> green_cup  orange_cup -> blue_cup  purple_cup -> red_cup  green_cup -> yellow_cup  blue_cup -> orange_cup  
+Mapping type: d
+Row margin: 0.020726577072
+Col margin: 0.117143045449
